@@ -127,8 +127,7 @@ uvicorn backend.main:app --reload
 * CoolProp
 * SQLAlchemy
 * Uvicorn
-* Pandas
-* Matplotlib
+* gunicorn
 
 ---
 
