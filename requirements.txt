@@ -1,0 +1,7 @@
+FastAPI
+CoolProp
+SQLAlchemy
+Uvicorn
+Pandas
+Matplotlib
+Plotly
